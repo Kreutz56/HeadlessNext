@@ -1,8 +1,8 @@
 import * as S from './styles'
 
 export interface Props {
-  title: string
-  description: string
+  title?: string
+  description?: string
 }
 
 export const Main = (props: Props) => (
