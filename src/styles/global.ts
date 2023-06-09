@@ -13,6 +13,7 @@ const GlobalStyles = createGlobalStyle`
 
   html, body, #__next {
     height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
 `
 
