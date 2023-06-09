@@ -8,6 +8,7 @@ function App({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <title>React Boilerplate</title>
+        <link rel="manifest" href="/manifest.json" />
         <meta name="description" content="Sample of headless app" />
       </Head>
       <GlobalStyles />
