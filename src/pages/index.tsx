@@ -25,7 +25,6 @@ export const getStaticProps = async () => {
     }
   }: LandingPageQueryResponse = await client.request(queryLandingPage)
 
-  console.log(header)
   return {
     props: {
       header
