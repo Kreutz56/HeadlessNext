@@ -35,8 +35,8 @@ yarn-error.log*
 next-env.d.ts
 
 # pwa workers
-/public/sw.js
-/public/workbox*.js
+/public/sw.*
+/public/workbox*
 
 # storybook
 /storybook-static
